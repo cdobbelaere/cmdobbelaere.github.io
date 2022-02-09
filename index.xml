@@ -5,34 +5,24 @@
     <link>https://cdobbelaere.github.io/cristinamdobbelaere/</link>
     <description>Recent content on Cristina M. Dobbelaere</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 30 Dec 2016 21:49:57 -0700</lastBuildDate><atom:link href="https://cdobbelaere.github.io/cristinamdobbelaere/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://cdobbelaere.github.io/cristinamdobbelaere/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>A Plain Markdown Post</title>
-      <link>https://cdobbelaere.github.io/cristinamdobbelaere/2016/12/30/a-plain-markdown-post/</link>
-      <pubDate>Fri, 30 Dec 2016 21:49:57 -0700</pubDate>
+      <title></title>
+      <link>https://cdobbelaere.github.io/cristinamdobbelaere/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://cdobbelaere.github.io/cristinamdobbelaere/2016/12/30/a-plain-markdown-post/</guid>
-      <description>This is a post written in plain Markdown (*.md) instead of R Markdown (*.Rmd). The major differences are:
- You cannot run any R code in a plain Markdown document, whereas in an R Markdown document, you can embed R code chunks (```{r}); A plain Markdown post is rendered through Blackfriday, and an R Markdown document is compiled by rmarkdown and Pandoc.  There are many differences in syntax between Blackfriday&amp;rsquo;s Markdown and Pandoc&amp;rsquo;s Markdown.</description>
+      <guid>https://cdobbelaere.github.io/cristinamdobbelaere/projects/</guid>
+      <description>a compilation of data projects to which I have contributed Marine Energy Toolkit Reporting Shiny App U.S. Dept. of Energy Marine Intertidal Temperatures Shiny App U.S. Food Security Shiny App Pedestrianization GIS Project Music Data Shiny App </description>
     </item>
     
     <item>
       <title>About</title>
       <link>https://cdobbelaere.github.io/cristinamdobbelaere/about/</link>
-      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://cdobbelaere.github.io/cristinamdobbelaere/about/</guid>
-      <description>This is a &amp;ldquo;hello world&amp;rdquo; example website for the blogdown package. The theme was forked from @jrutheiser/hugo-lithium-theme and modified by Yihui Xie.</description>
-    </item>
-    
-    <item>
-      <title>Lorem Ipsum</title>
-      <link>https://cdobbelaere.github.io/cristinamdobbelaere/2015/01/01/lorem-ipsum/</link>
-      <pubDate>Thu, 01 Jan 2015 13:09:13 -0600</pubDate>
-      
-      <guid>https://cdobbelaere.github.io/cristinamdobbelaere/2015/01/01/lorem-ipsum/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+      <description>My name is Cristina, and I work at EcoQuants, where I manage, prepare, visualize, and conduct analyses with environmental data. 
+While at EcoQuants, I have contributed to a variety of projects and dashboards, including the Marine Biodiversity Observation Network (MBON) Pole-to-Pole Project and the U.S. Department of Energy Marine Energy Toolkit. I have also conducted some of my own personal projects, including a Shiny app visualizing intertidal temperature trends in the Santa Barbara Channel of California and a Shiny app displaying disparities in food security across various factors in the U.</description>
     </item>
     
   </channel>
